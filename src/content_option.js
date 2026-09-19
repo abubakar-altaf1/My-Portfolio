@@ -1,12 +1,13 @@
+import img from './assets/images/54crates.png';
+import img2 from './assets/images/freight.png';
+import img3 from './assets/images/little-stars.png';
+import img4 from './assets/images/fix-my-ride.png';
+import img0 from './assets/images/quickgrid.png';
+import img5 from './assets/images/terapage.png';
+import img6 from './assets/images/vibe.png';
+import profile from './assets/images/profile.png';
+
 const logotext = "Abubakar ALtaf";
-import img from './assets/images/54crates.png'
-import img2 from './assets/images/freight.png'
-import img3 from './assets/images/little-stars.png'
-import img4 from './assets/images/fix-my-ride.png'
-import img0 from './assets/images/quickgrid.png'
-import img5 from './assets/images/terapage.png'
-import img6 from './assets/images/vibe.png'
-import profile from './assets/images/profile.png'
 const meta = {
   title: "Abubakar ALtaf",
   description:
@@ -22,7 +23,7 @@ const introdata = {
   },
   description:
     "Explore my portfolio showcasing diverse projects and skills in web development. Let's create innovative solutions together. Welcome to my site",
-  your_img_url: "../../assets/images/profile.png",
+  your_img_url: profile,
 };
 
 const dataabout = {
@@ -226,9 +227,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com/umairnaeem373",
-  facebook: "https://www.facebook.com/umairnaeem373",
-  linkedin: "https://www.linkedin.com/in/umairnaeem373",
+  github: "https://github.com/abubakar-altaf1",
+  linkedin: "https://www.linkedin.com/in/abubakar-rajpoot/",
 };
 export {
   meta,
