@@ -3,6 +3,9 @@
     "homepage": "https://umairnaeem373.github.io/",
     "version": "0.1.0",
     "private": true,
+    "engines": {
+        "node": "24.x"
+    },
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
